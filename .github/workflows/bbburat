@@ -356,7 +356,7 @@ task.spawn(function()
     end
 end)
 
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/yUFi8aFu"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/VzbgTxdC"))()
 
 local main = Library.new()
 
@@ -5434,4 +5434,4 @@ end
 
 main:load()
 
-local StarterGui = game:GetService('StarterGui')
+local StarterGui = game:GetService('StarterGui')1`
